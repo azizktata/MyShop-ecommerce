@@ -15,6 +15,10 @@ User :
 - Add a review to a listed item.
 - Report an issue.
 
+# Technologies
+- React
+- Django
+
 # Use case diagram
 
 ![284995835_545051050647158_7668573474598028456_n](https://user-images.githubusercontent.com/65952489/230768589-0fba346d-d8bd-486f-b293-d407aaabcb4b.png)
